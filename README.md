@@ -10,6 +10,6 @@ This repository serves as a template for all Ragtag software repositories.
 * [ ] Create a `CONTRIBUTORS` file and add yourself to it
 * [ ] Copy the `CODE_OF_CONDUCT.md` file from this repo
 * [ ] Copy the `CONTRIBUTING.md` file from this repo and change "Project Name" to the name of the project
-* [ ] Consider adding any project-specific guidance to CONTRIBUTING.md
+* [ ] Consider adding any project-specific guidance to `CONTRIBUTING.md`
 * [ ] Copy the `.github` folder from this repo
 * [ ] Create a README.md that includes an overview of what the project is, why it exists, how to get it running locally, and a link to `CONTRIBUTING.md`
